@@ -83,6 +83,8 @@
             }
             break;
         case 9:
+
+            
             echo "você esta na tabuada do: " . $valor1 ;
             echo "<br>";
             for($i = 1; $i <= 10; $i = $i + 1){
